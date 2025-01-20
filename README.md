@@ -1,0 +1,1 @@
+Red Express is a bus tracking and booking application built using Next.js. It provides real-time tracking of buses, allows users to search for and book tickets, and offers additional features like booking history and nearby hotel recommendations while searching for restaurants in cities.
